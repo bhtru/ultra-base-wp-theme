@@ -1,0 +1,1 @@
+# sica-wp-theme
