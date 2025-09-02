@@ -1,1 +1,1 @@
-# sica-wp-theme
+# ultra-base-wp-theme
